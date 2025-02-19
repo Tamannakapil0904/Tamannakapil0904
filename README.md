@@ -11,7 +11,7 @@
 
 ###
 <div align="right">
-<img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif?cid=ecf05e47ou6lzqiheoqgot4ko0at91sxmyg3dtrvxx2j308h&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GitHub Banner" width="100%" />
+<img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif?cid=ecf05e47ou6lzqiheoqgot4ko0at91sxmyg3dtrvxx2j308h&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GitHub Banner" width="25%" />
 </div>
 
 ### 💻 Tech Stack:
