@@ -9,6 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamannakapil0904&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+<div align="right">
+<img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif?cid=ecf05e47ou6lzqiheoqgot4ko0at91sxmyg3dtrvxx2j308h&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GitHub Banner" width="100%" />
+</div>
 
 ### 💻 Tech Stack:
 <div align="left">
