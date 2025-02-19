@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tamannakapil0904&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamannakapil0904&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNhc2h2azBtNjAzYnY4djQ3ZmNvcHM1emZ0MHI4OHBydWNzOHFnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt ="GitHub Banner" width="25%" height="150" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNhc2h2azBtNjAzYnY4djQ3ZmNvcHM1emZ0MHI4OHBydWNzOHFnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt ="GitHub Banner" width="20%" height="150" />
 
   
 </div>
