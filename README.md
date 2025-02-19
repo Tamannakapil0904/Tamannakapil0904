@@ -1,18 +1,21 @@
 # 👋 Hello World, I'm Tamanna, an aspiring Software Developer💫 <br>
-💻 Passionate about Data Structures, Algorithms, and Software Development  <br>🚀 Exploring Machine Learning, Image Processing, and Competitive Programming  <br>💡 Fun Fact: Writing code feels like solving a puzzle… except the compiler always wins!🎮🔍
 
-###
+
+💻 Passionate about Data Structures, Algorithms, and Software Development  <br>🚀 Exploring Machine Learning, Image Processing, and Competitive Programming  <br>💡 Fun Fact: Writing code feels like solving a puzzle… except the compiler always wins!🎮
+
+
 
 ### 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tamannakapil0904&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamannakapil0904&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNhc2h2azBtNjAzYnY4djQ3ZmNvcHM1emZ0MHI4OHBydWNzOHFnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt ="GitHub Banner" width="25%" height="150" />
+
+  
 </div>
 
-###
-<div align="right">
-<img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif?cid=ecf05e47ou6lzqiheoqgot4ko0at91sxmyg3dtrvxx2j308h&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GitHub Banner" width="25%" />
-</div>
+
 
 ### 💻 Tech Stack:
 <div align="left">
