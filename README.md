@@ -9,11 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamannakapil0904&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="140" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316"/>
-
-###
 
 ### 💻 Tech Stack:
 <div align="left">
