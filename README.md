@@ -1,21 +1,19 @@
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tamannakapil0904.Tamannakapil0904&left_color=palevioletred&right_color=dimgrey" width="65" height="18" />
+</div>
+
+###
 # 👋 Hello World, I'm Tamanna, an aspiring Software Developer💫 <br>
 
 
 💻 Passionate about Data Structures, Algorithms, and Software Development  <br>🚀 Exploring Machine Learning, Image Processing, and Competitive Programming  <br>💡 Fun Fact: Writing code feels like solving a puzzle… except the compiler always wins!🎮
 
-
-
 ### 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tamannakapil0904&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamannakapil0904&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNhc2h2azBtNjAzYnY4djQ3ZmNvcHM1emZ0MHI4OHBydWNzOHFnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt ="GitHub Banner" width="22%" height="150" />
-
-  
 </div>
-
-
 
 ### 💻 Tech Stack:
 <div align="left">
@@ -54,8 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="22" alt="numpy logo"  />
 </div>
 
-###
-
 ### 🌐 Socials:
 <div align="left">
   <a href="https://www.instagram.com/tamanna_kapil?igsh=MXd5bTV5MDNudDkzaA==" target="_blank">
@@ -77,7 +73,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Tamannakapil0904&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamannakapil0904/Tamannakapil0904/output/github-snake-dark.svg" />
@@ -85,5 +81,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Tamannakapil0904/Tamannakapil0904/output/github-snake.svg" />
 </picture>
 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Tamannakapil0904&icon=9&color=5)](https://visitcount.itsvg.in)
