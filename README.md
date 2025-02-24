@@ -13,14 +13,14 @@
 
 💻 Passionate about Data Structures, Algorithms, and Software Development  <br>🚀 Exploring Machine Learning, Image Processing, and Competitive Programming  <br>💡 Fun Fact: Writing code feels like solving a puzzle… except the compiler always wins!🎮
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tamannakapil0904&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamannakapil0904&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="22%" height="170" />
 </div>
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ai" height="22" alt="adobeillustrator logo"  />
   <img width="12" />
@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="22" alt="numpy logo"  />
 </div>
 
-### 🌐 Socials:
+## 🌐 Socials:
 <div align="left">
   <a href="https://www.instagram.com/tamanna_kapil?igsh=MXd5bTV5MDNudDkzaA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=pink&logoColor=grey&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <a href="https://www.hackerrank.com/tamannakapil09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
 
