@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Tamannakapil0904.Tamannakapil0904&left_color=palevioletred&right_color=dimgrey" width="65" height="18" />
 </div>
 
